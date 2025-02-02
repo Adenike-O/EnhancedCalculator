@@ -12,6 +12,3 @@ This is a console-based enhanced calculator with basic arithmetic, scientific op
 1. Clone the repository.
 2. Open the project in Visual Studio.
 3. Run the project using `dotnet run`.
-
-## Testing
-Run the unit tests using `dotnet test`.
